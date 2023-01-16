@@ -1,4 +1,4 @@
-1 | Change Img location (discord.png)
+1 | Change Img location
 2 | Previous Page Button
 3 | Pages for all buttons
 4 | Icon Button
